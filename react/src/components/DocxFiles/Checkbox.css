@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+}
+.container {
+  padding: 24px;
+}
+.divider {
+  margin-top: 24px;
+}
+.btn-row {
+  margin: 24px;
+  a {
+    margin: 0 6px;
+  }
+}
+button {
+  padding: '16px 32px';
+  cursor: 'pointer';
+  font-size: 16;
+  color: 'white';
+  border: 'none';
+  border-radius: '40px';
+  outline: 'none';
+  width: 300;
+}
